@@ -1,0 +1,11 @@
+D:\Siva\MVCApp\DBAccessHelpers\bin\Debug\DBAccessHelpers.dll
+D:\Siva\MVCApp\DBAccessHelpers\bin\Debug\DBAccessHelpers.pdb
+D:\Siva\MVCApp\DBAccessHelpers\bin\Debug\PropertiesHelpers.dll
+D:\Siva\MVCApp\DBAccessHelpers\bin\Debug\SqlDBConHelper.dll
+D:\Siva\MVCApp\DBAccessHelpers\bin\Debug\PropertiesHelpers.pdb
+D:\Siva\MVCApp\DBAccessHelpers\bin\Debug\SqlDBConHelper.pdb
+D:\Siva\MVCApp\DBAccessHelpers\obj\Debug\DBAccessHelpers.csprojAssemblyReference.cache
+D:\Siva\MVCApp\DBAccessHelpers\obj\Debug\DBAccessHelpers.csproj.CoreCompileInputs.cache
+D:\Siva\MVCApp\DBAccessHelpers\obj\Debug\DBAccessHelpers.csproj.CopyComplete
+D:\Siva\MVCApp\DBAccessHelpers\obj\Debug\DBAccessHelpers.dll
+D:\Siva\MVCApp\DBAccessHelpers\obj\Debug\DBAccessHelpers.pdb

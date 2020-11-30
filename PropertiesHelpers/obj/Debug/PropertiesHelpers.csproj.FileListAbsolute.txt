@@ -1,0 +1,6 @@
+D:\Siva\MVCApp\PropertiesHelpers\bin\Debug\PropertiesHelpers.dll
+D:\Siva\MVCApp\PropertiesHelpers\bin\Debug\PropertiesHelpers.pdb
+D:\Siva\MVCApp\PropertiesHelpers\obj\Debug\PropertiesHelpers.csprojAssemblyReference.cache
+D:\Siva\MVCApp\PropertiesHelpers\obj\Debug\PropertiesHelpers.csproj.CoreCompileInputs.cache
+D:\Siva\MVCApp\PropertiesHelpers\obj\Debug\PropertiesHelpers.dll
+D:\Siva\MVCApp\PropertiesHelpers\obj\Debug\PropertiesHelpers.pdb
